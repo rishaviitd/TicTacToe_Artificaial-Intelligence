@@ -3,6 +3,7 @@
 **Project Overview:**
 
 This project showcases an implementation of Tic Tac Toe empowered by artificial intelligence. Programmed in Python with the Pygame library, it offers two game modes: Human vs Human and AI vs Human. The primary goal was to develop an AI opponent that would provide a formidable challenge to human players.
+<img src="tic.png"/>
 
 **Contributions:**
 
